@@ -1,1 +1,2 @@
-# test_repo
+# Repositorio de prueba
+Repo de prueba para python intermedio
